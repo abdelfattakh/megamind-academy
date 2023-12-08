@@ -1,0 +1,42 @@
+@font-face {
+    font-family: "DM Sans";
+    src: url("../fonts/Cairo-Bold.ttf");
+    font-weight: 700;
+    font-style: normal;
+    color: var(--main-color);
+  }
+  @font-face {
+    font-family: "DM Sans2";
+    src: url("../fonts/Cairo-Medium.ttf");
+    font-weight: 500;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: "DM Sans3";
+    src: url("../fonts/Cairo-Regular.ttf");
+    font-weight: 200;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: "DK Cool";
+    src: url("../fonts/Aref_Menna-Regular.ttf");
+    font-weight: 400;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: "PF1";
+    src: url("../fonts/ToyorAljanah-Regular.ttf");
+    
+  }
+  @font-face {
+    font-family: "PF3";
+    src: url("../fonts/ToyorAljanah-Regular.ttf");
+  
+    
+  }
+  @font-face {
+    font-family: "PF5";
+    src: url("../fonts/ToyorAljanah-Regular.ttf");
+  
+    
+  }
